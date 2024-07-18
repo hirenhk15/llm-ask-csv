@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+demo/
 build/
 develop-eggs/
 dist/
@@ -81,6 +82,9 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# MacOS files
+.DS_Store
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
